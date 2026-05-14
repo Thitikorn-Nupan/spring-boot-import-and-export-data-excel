@@ -19,6 +19,9 @@ public class Teacher {
         this.birthday = birthday;
     }
 
+    public Teacher() {
+    }
+
     public int getId() {
         return id;
     }

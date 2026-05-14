@@ -13,6 +13,9 @@ public class Student {
         this.gender = gender;
     }
 
+    public Student() {
+    }
+
     public int getId() {
         return id;
     }
